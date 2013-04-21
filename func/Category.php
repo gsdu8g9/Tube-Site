@@ -44,8 +44,8 @@ class Category{
               
         $id = mysql_result($result, 0, "id");
         
-        $limit_start = $page * 52;
-		$limit_stop = $limit_start - 52  ;
+       $limit_start = ($page - 1) * 52; // 0 when 1, 52 when 2, 104 when 3 etc.
+	$limit_stop = 52;
         
         $output_videos_query = "SELECT 
                    *
