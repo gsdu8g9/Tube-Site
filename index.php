@@ -20,6 +20,9 @@ $siteTitle = $settings -> getSiteTitle();
 <title><?php echo $siteName . " | " . $siteTitle; ?></title>
 
 <link href="css/index_style.css" rel="stylesheet" type="text/css" />
+
+
+
 </head>
 
 <body>
@@ -53,13 +56,21 @@ $siteTitle = $settings -> getSiteTitle();
 			<div id="content1_area">
 				<div id="content_left">
 					<div id="content_paidadd">
+						<div id="paid_area" style="background-color:white"> 
+															<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FLkBits&amp;width=195&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=false&amp;appId=539151252791942" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:196px; height:258px;" allowTransparency="true"></iframe>
+													</div>
+					</div>
+						
+										
+					<div id="content_paidadd">
 						<div id="paid_area"> 
-															<a href="http://localhost/tube_revise/category.php?cat=Sports%20Programs" target="_blank">
+															<a href="category.php?cat=Sports%20Programs" target="_blank">
 																<img src="http://lkbits.com/uploads/wwe01.jpg" class="addimage" />
 															</a>
 													</div>
-					</div> 
-									 	
+					</div>
+
+								 	
 					<div id="content_paidadd">
 						<div id="paid_area"> 
 															<a href="http://lkbits.com/category.php?cat=Sinhala%20Cartoons" target="_blank">
@@ -139,7 +150,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>					</di
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 								</div>
 							</div>
-							
+
 							<script>
   (function() {
     var cx = '001898268929737199146:so4fokgfb7y';
@@ -158,18 +169,18 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 							
 																<div id="cenpaidad-area">
 									<div id="cenpaidad-area-image"> 
-																					<a href="http://lkbits.com/category.php?cat=For%20Ladies" target="_blank">
-																						<img src="http://imgsout.appspot.com/image/28001/" class="cenpaidad-area-image" />
+																					<a href="recent.php?id=1" target="_blank">
+																						<img src="http://lkbits.com/uploads/drama.gif" class="cenpaidad-area-image" />
 																					</a>
 																			</div>
 								</div> 
-																<div id="cenpaidad-area">
+													<!--			<div id="cenpaidad-area">
 									<div id="cenpaidad-area-image"> 
 																					<a href="#" target="_blank">
 																						<img src="http://imgsout.appspot.com/image/27002/" class="cenpaidad-area-image" />
 																					</a>
 																			</div>
-								</div> 
+								</div> -->
 								
 							</div>
 											
@@ -360,8 +371,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 				</div>
 			
 				<div id="content_right">
-					
-									 	
+				 	
 					<div id="r-paidad">
 						<div id="r-paidad-area"> 
 															<a href="http://lkbits.com/view.php?id=4825" target="_blank">
@@ -392,7 +402,8 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 					
 					
 					<div id="r-paidad">
-						Now is the perfect time to take a break from work! A solo getaway or one with the gals is definitely needed, but trying to budget a trip is always a bit of a hassle. But not anymore
+						LKBits is the best and fastest growing entertainment portal in Sri Lanka with hourly update of Sinhala Teledramas, music videos,  News, Teledramas, Films, Documentaries, Educational programs, Children's entertainment, programs dubbed in Sinhala, Game shows, Reality TV, Religious programs, Political debates & more.
+Some of the programs are Sinhala News, Rupawahini News, ITN news, Sri Lanka News , swarnawahini Live @ 8 , swarnawahini Live @ 12 ,Sirasa news first 7, Sirasa news first 10, Sirasa morning news , Derana news , Derana noon news , Rupawahin Noon News , Rupawahin 8 News , Rupawahin 9.30 News , ITN Noon News , ITN Morning News , 24 Hours news online , Latest News in Sri lanka , News debrief, Hadena hati, Abeetha diyani, Sujatha diyani and ladies corner specially for ladies.
 					</div>
 					
 					<div id="c_r_link">
@@ -413,13 +424,39 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>					</di
 					
 					
 					<div id="r-paidad">
-						Senate, United States, the smaller of the two legislative bodies of the Congress of the United States. Along with the House of Representatives, it drafts and passes laws that, when signed by the president,
+						<script language="JavaScript">
+var txt = " Bookmark Us!";
+var url = "http://lkbits.com/";
+var who = "LKBits Home Page";
+
+var ver = navigator.appName;
+var num = parseInt(navigator.appVersion);
+if ((ver == "Microsoft Internet Explorer")&&(num >= 4)) {
+document.write('<A HREF="javascript:window.external.AddFavo? ');
+document.write('onMouseOver=" window.status=');
+document.write("txt; return true ");
+document.write('"onMouseOut=" window.status=');
+document.write("' '; return true ");
+document.write('">'+ txt + '</a>');
+}else{
+txt += " (Ctrl+D)";
+document.write(txt);
+} 
+</script>
 					</div>
 									 	
 					<div id="r-paidad">
 						<div id="r-paidad-area"> 
 															<a href="http://lkbits.com/view.php?id=5276" target="_blank">
 																<img src="http://lkbits.com/uploads/56051365873274764676hghg767.jpg" class="r-paidad-area" />
+															</a>
+													</div>
+					</div> 
+
+					<div id="r-paidad">
+						<div id="r-paidad-area"> 
+															<a href="http://lkbits.com/category.php?cat=Sinhala%20Cartoons" target="_blank">
+																<img src="http://lkbits.com/uploads/cartoon 002.jpg" class="r-paidad-area" />
 															</a>
 													</div>
 					</div> 
@@ -443,13 +480,13 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>						</d
 					
 					
 									 	
-					<!--<div id="r-paidad">
+					<div id="r-paidad">
 								<div id="r-paidad-area">
-									<a href="http://rupatv.com/" target="_blank"> <img src="images/DnmKnW81764650997_col3good.gif" class="r-paidad-area" /> </a>
+									<a href="http://lkbits.com/category.php?cat=Sinhala%20Cartoons" target="_blank"> <img src="http://lkbits.com/uploads/cartoon 002.jpg" class="r-paidad-area" /> </a>
 								</div>
 							</div>
 
-							<div id="r-paidad">
+							<!--<div id="r-paidad">
 								<div id="r-paidad-area">
 									<a href="http://sithma.co.uk/horoscope/index.php" target="_blank"> <img src="images/ikkvQk69012713852_horoscope-ad.gif" class="r-paidad-area" /> </a>
 								</div>

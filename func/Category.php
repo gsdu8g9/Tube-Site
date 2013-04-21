@@ -45,7 +45,7 @@ class Category{
         $id = mysql_result($result, 0, "id");
         
         $limit_start = $page * 52;
-		$limit_start = $page + 52;
+		$limit_stop = $limit_start - 52  ;
         
         $output_videos_query = "SELECT 
                    *
@@ -56,7 +56,7 @@ class Category{
                   ORDER BY
                     created_at
                   DESC LIMIT 
-                    $limit_start, $limit_start";
+                    $limit_start, $limit_stop";
         
         $output_videos_result = mysql_query($output_videos_query) or die(mysql_error());
         
